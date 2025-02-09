@@ -1,0 +1,6 @@
+name: InfiniteFuel
+version: '1.0'
+main: org.cptgummiball.infiniteFuel.Main
+api-version: '1.21'
+prefix: InfiniteFuel
+authors: [ cptgummiball ]

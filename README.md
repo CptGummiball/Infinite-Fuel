@@ -2,7 +2,7 @@
 ![Spigot](https://img.shields.io/badge/Spigot-1.21.x-yellow.svg)
 ![PaperMC](https://img.shields.io/badge/PaperMC-1.21.x-blue.svg)
 ![Purpur](https://img.shields.io/badge/Purpur-1.21.x-pink.svg)
-![Version](https://img.shields.io/badge/Version-1.02-gray.svg)
+![Version](https://img.shields.io/badge/Version-1.0-gray.svg)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ## Overview
 A Spigot plugin for Minecraft 1.20+ that allows furnaces, blast furnaces, and smokers to burn indefinitely when placed over **lava** or a **magma block**.
